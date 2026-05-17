@@ -11,8 +11,9 @@
 
 ## Nombre y legajo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 222.473-2 
+- Nombre: Luis LUNA
+
 
 ## El enunciado
 
